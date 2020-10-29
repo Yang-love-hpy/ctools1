@@ -1,0 +1,2 @@
+exe_a:
+	gcc  max.c -I ../include ../lib/libmax.a -o exe_a
